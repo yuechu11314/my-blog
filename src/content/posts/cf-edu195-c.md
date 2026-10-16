@@ -1,12 +1,13 @@
 ---
-author: yuechuchu_11 
-pubDatetime: 2026-10-16T13:45:00Z 
-title: Codeforces edu195c 题解：前缀和，数论 
+author: yuechuchu_11
+pubDatetime: 2026-10-16T13:45:00Z
+title: Codeforces edu195c 题解：前缀和，数论
+description: 日常补题
 tags:
- - cf
- - 算法竞赛
-   description:记录.
+  - cf
+  - 算法竞赛
 ---
+
 ## 题目链接:https://codeforces.com/contest/2276/problem/C
 
 ## 题目大意
