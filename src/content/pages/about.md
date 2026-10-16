@@ -1,6 +1,6 @@
 ---
 title: "yuechuchu_11"
-description: "刷题感悟，个人分享分析与学习日志📖"
+description: "刷题感悟，个人技术分享与学习日志📖"
 ---
 
 这里是yuechuchu_11的个人blog。
