@@ -1,6 +1,6 @@
 ---
 author: yuechuchu_11
-pubDatetime: 2026-10-16T13:45:00Z
+pubDatetime: 2026-10-15T12:00:00Z
 title: Codeforces edu195c 题解：前缀和，数论
 description: 日常补题
 tags:
