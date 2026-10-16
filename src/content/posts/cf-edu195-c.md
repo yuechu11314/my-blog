@@ -5,6 +5,7 @@ title: Codeforces edu195c 题解：前缀和，数论
 tags:
  - cf
  - 算法竞赛
+   description:记录.
 ---
 ## 题目链接:https://codeforces.com/contest/2276/problem/C
 
